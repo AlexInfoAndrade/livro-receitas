@@ -1,14 +1,16 @@
-#Strogonoff de Frango :chicken
+# Strogonoff de Frango :chicken:
 
-###Igredientes
+## Receita
 
- - igrediente 1
- - igrediente 2
- - igrediente 3
- - _igredienteEspecial 4
- - **igredienteNecessário** 5
+### Igredientes
 
-###Modo de Preparo
+- igrediente 1
+- igrediente 2
+- igrediente 3
+- _igredienteEspecial_ 4
+- **igredienteNecessário** 5
+
+### Modo de Preparo
 
 1. Misturar os igredientes
-2. Levar no fogo
+2. Levar ao fogo
